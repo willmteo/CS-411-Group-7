@@ -8,6 +8,8 @@ private $owenerID='';
 
 public $ownerName='';
 
+$test = 'hello';
+
 
 }
 
